@@ -37,7 +37,6 @@ class _GroupsPageState extends State<GroupsPage> {
                     },
                     child: Container(
                       height: size,
-                      color: Colors.red,
                       child: AppBar(
                         centerTitle: true,
                         backgroundColor: Colors.white,

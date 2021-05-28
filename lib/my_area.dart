@@ -40,7 +40,6 @@ class _MyHomePageState extends State<MyHomePage> {
                   },
                   child: Container(
                     height: size,
-                    color: Colors.red,
                     child: AppBar(
                       centerTitle: true,
                       backgroundColor: Colors.white,

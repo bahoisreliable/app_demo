@@ -37,7 +37,6 @@ class _MessagesPageState extends State<MessagesPage> {
                     },
                     child: Container(
                       height: size,
-                      color: Colors.red,
                       child: AppBar(
                         centerTitle: true,
                         backgroundColor: Colors.white,
